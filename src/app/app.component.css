@@ -1,0 +1,20 @@
+.brown{
+    height: 75px;
+    width: 75px;
+    background-color: DarkGoldenRod ;
+    display: inline-block;
+    text-align: center;
+    margin-right: 10px;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+button{
+    margin-top: 25px;
+}
+#header{
+    text-align: center;
+}
